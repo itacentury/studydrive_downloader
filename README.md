@@ -1,9 +1,11 @@
 # Studydrive Downloader
 ## Disclaimer
-I DID NOT WRITE THIS CODE, I DO NOT OWN THIS CODE, AND I DID NOT MAKE THIS EXTENSION.
-
-ALL CREDIT GOES TO equirinya: https://chrome-stats.com/a/ZXF1aXJpbnlh
-
-
-I just saw that the extension was unavailable on the Chrome & Firefox Web Stores and downloaded the .crx file to get the source code. 
-The only thing I did was replace the icons.
+* This is not my work or my extension. 
+* All credit goes to the original creator equirinya.
+* I found the .crx file here: https://chrome-stats.com/d/ohkccfdaajijclbgagenjjejkffbmkmo
+* I extracted the source code from the .crx file and got the .xpi signed myself from Mozilla
+## Installation
+### Chrome
+* Use .crx file
+### Firefox
+* Use .xpi file
